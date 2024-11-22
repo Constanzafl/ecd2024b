@@ -1,0 +1,401 @@
+﻿fecha_reproduccion,nombre_cancion,artista,album,fecha_album,generos,popularidad_artista,popularidad_cancion,duracion_ms,explicito,tempo,danceability,energy,instrumentalness,acousticness,valence
+2024-11-22 01:17:38,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-22 01:17:38,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-22 01:17:38,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-22 01:17:38,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-22 01:17:38,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-22 01:17:38,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-22 01:17:38,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-22 01:17:38,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-22 01:17:38,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-22 01:17:38,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-22 01:17:38,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-22 01:17:38,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-22 01:17:38,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-22 01:17:38,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-22 01:17:38,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-22 01:17:38,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-22 01:17:38,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-22 01:17:38,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-22 01:17:38,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-22 01:17:38,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-22 01:17:38,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-22 01:17:38,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-22 01:17:38,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-22 01:17:38,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-22 01:17:38,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-22 01:17:38,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-22 01:17:38,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-22 01:17:38,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-22 01:17:38,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-22 01:17:38,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-22 01:17:38,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-22 01:17:38,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-22 01:17:38,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-22 01:17:38,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-22 01:17:38,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-22 01:17:38,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-22 01:17:38,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-22 01:17:38,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-22 01:17:38,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-22 01:17:38,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-22 01:17:38,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-22 01:17:38,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-22 01:17:38,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-22 01:17:38,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-22 01:17:38,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-22 01:17:38,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-22 01:17:38,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-22 01:17:38,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-22 01:17:38,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-22 01:17:38,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-21 01:16:38,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-21 01:16:38,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-21 01:16:38,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-21 01:16:38,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-21 01:16:38,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-21 01:16:38,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-21 01:16:38,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-21 01:16:38,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-21 01:16:38,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-21 01:16:38,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-21 01:16:38,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-21 01:16:38,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-21 01:16:38,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-21 01:16:38,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-21 01:16:38,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-21 01:16:38,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-21 01:16:38,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-21 01:16:38,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-21 01:16:38,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-21 01:16:38,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-21 01:16:38,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-21 01:16:38,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-21 01:16:38,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-21 01:16:38,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-21 01:16:38,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-21 01:16:38,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-21 01:16:38,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-21 01:16:38,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-21 01:16:38,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-21 01:16:38,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-21 01:16:38,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-21 01:16:38,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-21 01:16:38,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-21 01:16:38,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-21 01:16:38,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-21 01:16:38,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-21 01:16:38,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-21 01:16:38,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-21 01:16:38,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-21 01:16:38,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-21 01:16:38,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-21 01:16:38,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-21 01:16:38,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-21 01:16:38,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-21 01:16:38,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-21 01:16:38,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-21 01:16:38,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-21 01:16:38,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-21 01:16:38,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-21 01:16:38,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-20 01:15:49,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-20 01:15:49,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-20 01:15:49,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-20 01:15:49,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-20 01:15:49,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-20 01:15:49,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-20 01:15:49,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-20 01:15:49,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-20 01:15:49,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-20 01:15:49,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-20 01:15:49,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-20 01:15:49,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-20 01:15:49,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-20 01:15:49,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-20 01:15:49,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-20 01:15:49,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-20 01:15:49,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-20 01:15:49,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-20 01:15:49,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-20 01:15:49,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-20 01:15:49,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-20 01:15:49,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-20 01:15:49,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-20 01:15:49,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-20 01:15:49,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-20 01:15:49,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-20 01:15:49,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-20 01:15:49,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-20 01:15:49,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-20 01:15:49,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-20 01:15:49,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-20 01:15:49,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-20 01:15:49,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-20 01:15:49,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-20 01:15:49,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-20 01:15:49,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-20 01:15:49,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-20 01:15:49,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-20 01:15:49,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-20 01:15:49,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-20 01:15:49,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-20 01:15:49,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-20 01:15:49,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-20 01:15:49,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-20 01:15:49,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-20 01:15:49,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-20 01:15:49,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-20 01:15:49,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-20 01:15:49,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-20 01:15:49,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-19 01:14:56,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-19 01:14:56,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-19 01:14:56,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-19 01:14:56,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-19 01:14:56,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-19 01:14:56,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-19 01:14:56,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-19 01:14:56,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-19 01:14:56,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-19 01:14:56,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-19 01:14:56,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-19 01:14:56,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-19 01:14:56,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-19 01:14:56,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-19 01:14:56,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-19 01:14:56,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-19 01:14:56,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-19 01:14:56,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-19 01:14:56,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-19 01:14:56,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-19 01:14:56,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-19 01:14:56,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-19 01:14:56,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-19 01:14:56,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-19 01:14:56,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-19 01:14:56,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-19 01:14:56,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-19 01:14:56,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-19 01:14:56,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-19 01:14:56,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-19 01:14:56,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-19 01:14:56,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-19 01:14:56,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-19 01:14:56,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-19 01:14:56,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-19 01:14:56,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-19 01:14:56,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-19 01:14:56,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-19 01:14:56,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-19 01:14:56,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-19 01:14:56,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-19 01:14:56,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-19 01:14:56,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-19 01:14:56,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-19 01:14:56,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-19 01:14:56,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-19 01:14:56,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-19 01:14:56,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-19 01:14:56,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-19 01:14:56,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-18 01:14:07,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-18 01:14:07,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-18 01:14:07,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-18 01:14:07,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-18 01:14:07,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-18 01:14:07,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-18 01:14:07,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-18 01:14:07,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-18 01:14:07,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-18 01:14:07,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-18 01:14:07,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-18 01:14:07,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-18 01:14:07,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-18 01:14:07,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-18 01:14:07,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-18 01:14:07,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-18 01:14:07,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-18 01:14:07,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-18 01:14:07,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-18 01:14:07,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-18 01:14:07,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-18 01:14:07,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-18 01:14:07,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-18 01:14:07,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-18 01:14:07,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-18 01:14:07,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-18 01:14:07,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-18 01:14:07,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-18 01:14:07,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-18 01:14:07,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-18 01:14:07,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-18 01:14:07,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-18 01:14:07,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-18 01:14:07,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-18 01:14:07,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-18 01:14:07,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-18 01:14:07,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-18 01:14:07,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-18 01:14:07,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-18 01:14:07,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-18 01:14:07,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-18 01:14:07,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-18 01:14:07,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-18 01:14:07,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-18 01:14:07,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-18 01:14:07,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-18 01:14:07,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-18 01:14:07,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-18 01:14:07,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-18 01:14:07,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-17 01:13:16,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-17 01:13:16,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-17 01:13:16,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-17 01:13:16,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-17 01:13:16,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-17 01:13:16,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-17 01:13:16,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-17 01:13:16,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-17 01:13:16,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-17 01:13:16,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-17 01:13:16,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-17 01:13:16,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-17 01:13:16,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-17 01:13:16,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-17 01:13:16,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-17 01:13:16,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-17 01:13:16,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-17 01:13:16,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-17 01:13:16,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-17 01:13:16,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-17 01:13:16,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-17 01:13:16,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-17 01:13:16,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-17 01:13:16,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-17 01:13:16,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-17 01:13:16,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-17 01:13:16,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-17 01:13:16,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-17 01:13:16,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-17 01:13:16,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-17 01:13:16,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-17 01:13:16,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-17 01:13:16,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-17 01:13:16,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-17 01:13:16,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-17 01:13:16,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-17 01:13:16,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-17 01:13:16,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-17 01:13:16,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-17 01:13:16,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-17 01:13:16,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-17 01:13:16,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-17 01:13:16,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-17 01:13:16,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-17 01:13:16,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-17 01:13:16,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-17 01:13:16,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-17 01:13:16,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-17 01:13:16,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-17 01:13:16,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-16 01:12:27,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-16 01:12:27,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-16 01:12:27,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-16 01:12:27,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-16 01:12:27,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-16 01:12:27,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-16 01:12:27,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-16 01:12:27,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-16 01:12:27,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-16 01:12:27,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-16 01:12:27,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-16 01:12:27,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-16 01:12:27,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-16 01:12:27,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-16 01:12:27,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-16 01:12:27,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-16 01:12:27,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-16 01:12:27,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-16 01:12:27,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-16 01:12:27,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-16 01:12:27,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-16 01:12:27,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-16 01:12:27,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
+2024-11-16 01:12:27,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-16 01:12:27,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-16 01:12:27,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-16 01:12:27,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-16 01:12:27,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-16 01:12:27,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-16 01:12:27,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-16 01:12:27,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-16 01:12:27,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-16 01:12:27,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-16 01:12:27,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-16 01:12:27,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-16 01:12:27,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-16 01:12:27,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-16 01:12:27,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-16 01:12:27,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-16 01:12:27,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-16 01:12:27,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-16 01:12:27,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-16 01:12:27,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-16 01:12:27,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-16 01:12:27,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-16 01:12:27,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-16 01:12:27,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-16 01:12:27,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-16 01:12:27,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-16 01:12:27,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-15 01:11:35,Plus le même,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,44,185434,False,121.008,0.892,0.608,0.311,0.357,0.522
+2024-11-15 01:11:35,Elements Of Life,Mairee,Elements Of Life,2024-04-12,,331343,43,160000,False,135.031,0.561,0.992,0.616,0.0036,0.0975
+2024-11-15 01:11:35,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,69,214880,False,124.725,0.791,0.759,4.44e-05,0.0823,0.917
+2024-11-15 01:11:35,Be My Lover,La Bouche,Sweet Dreams,1996-01-16,"diva house, eurodance, europop, german techno",322749,62,240266,False,134.809,0.669,0.941,4.3e-06,0.00129,0.841
+2024-11-15 01:11:35,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),1967-11-27,"british invasion, classic rock, merseybeat, psychedelic rock, rock",28792223,65,247320,False,97.873,0.39,0.502,0.000129,0.336,0.289
+2024-11-15 01:11:35,7ICE,Sajfer,7ICE,2024-05-12,"bosnian pop, turbo folk",145861,58,142285,False,140.037,0.854,0.878,0.0,0.165,0.89
+2024-11-15 01:11:35,Wanna See You Dance,Mairee,Wanna See You Dance,2024-03-24,,331343,43,141309,False,125.987,0.687,0.923,0.426,0.0084,0.701
+2024-11-15 01:11:35,Buffalo Soldier,Bob Marley & The Wailers,Legend - The Best Of Bob Marley And The Wailers,2002-01-01,"reggae, roots reggae",12812926,61,257786,False,124.067,0.93,0.462,9.99e-06,0.128,0.777
+2024-11-15 01:11:35,Andate,NAFTA,NAFTA II,2023-07-28,"argentine indie, argentine rock, latin funk, r&b argentino",155558,60,178454,False,123.949,0.814,0.511,0.00441,0.623,0.622
+2024-11-15 01:11:35,Ojalá que llueva café,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,52,207186,False,85.131,0.413,0.594,1.32e-05,0.479,0.893
+2024-11-15 01:11:35,Océan rouge,Flavien Berger,Mars balnéaire,2014-06-23,"french indie pop, french indietronica, french synthpop",138462,36,827586,False,160.023,0.57,0.258,0.904,0.522,0.0393
+2024-11-15 01:11:35,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,74,267600,False,149.987,0.583,0.731,0.0136,0.0107,0.446
+2024-11-15 01:11:35,Leave It - Solven Remix,Sophie Shaw,Leave It (Solven Remix),2024-09-13,,303,58,132000,False,99.996,0.695,0.891,0.000131,0.358,0.21
+2024-11-15 01:11:35,Calvin,Miel De Montagne,Calvin,2022-12-16,"french indie pop, french indietronica",79771,39,183470,False,123.985,0.803,0.532,0.426,0.00808,0.572
+2024-11-15 01:11:35,Pourquoi pas,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,53,192743,False,107.007,0.796,0.597,0.743,0.142,0.488
+2024-11-15 01:11:35,Baja la Tensión,Cultura Profética,La Dulzura,2010-08-22,"latin alternative, latin rock, reggae en espanol, rock en espanol",1808294,58,266026,False,123.955,0.782,0.773,0.0,0.166,0.775
+2024-11-15 01:11:35,Potra,NAFTA,Nafta,2019-10-18,"argentine indie, argentine rock, latin funk, r&b argentino",155558,54,257898,False,88.302,0.481,0.649,0.0598,0.131,0.496
+2024-11-15 01:11:35,Puesto - En Vivo,Babasonicos,Desde Adentro - Impuesto de Fe (En Vivo),2016-05-20,"argentine rock, electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol",1544777,43,239000,False,110.026,0.65,0.505,0.0226,0.469,0.351
+2024-11-15 01:11:35,TRAQUETO,iZaak,TRAQUETO,2024-07-12,"trap latino, urbano latino",318396,75,202200,True,99.955,0.78,0.599,0.0,0.135,0.394
+2024-11-15 01:11:35,Cuídamela Bien,Pepe Aguilar,Cuídamela Bien,2024-09-26,"banda, latin talent show, mariachi, musica mexicana, ranchera",4580080,74,223442,True,137.753,0.557,0.593,0.0,0.449,0.45
+2024-11-15 01:11:35,Cette fille,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,51,168983,False,117.222,0.826,0.434,0.216,0.0581,0.39
+2024-11-15 01:11:35,No Has Cambiado,Baby Rasta,No Has Cambiado,2024-10-03,"reggaeton, trap latino, urbano latino",2223004,71,276404,True,89.022,0.791,0.514,9.41e-06,0.555,0.481
+2024-11-15 01:11:35,Sicaria,MEL GRANDA,Sicaria,2024-03-14,,17726,66,204649,True,102.103,0.849,0.748,0.0,0.409,0.371
+2024-11-15 01:11:35,Petit garçon,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,45,204798,False,122.004,0.741,0.758,0.693,0.146,0.0454
+2024-11-15 01:11:35,Dance With Me,Mairee,Dance With Me,2022-04-05,,331343,32,144201,False,126.031,0.715,0.976,0.000335,0.0512,0.741
+2024-11-15 01:11:35,Run Baby Run,Paul Ritch,Run Baby Run,2013-08-12,"acid techno, deep minimal techno, french techno, minimal techno, techno",43602,37,501059,False,125.993,0.698,0.743,0.852,0.000632,0.0865
+2024-11-15 01:11:35,Le Pigeon,Miel De Montagne,Le Pigeon,2023-10-06,"french indie pop, french indietronica",79771,34,163600,False,154.961,0.673,0.794,0.504,0.000588,0.725
+2024-11-15 01:11:35,Tu n'y connais rien,Miel De Montagne,Petit garçon,2018-06-15,"french indie pop, french indietronica",79771,23,228990,False,108.991,0.947,0.426,0.619,0.00177,0.547
+2024-11-15 01:11:35,Las batallas,Café Tacvba,Café Tacvba,1992-07-13,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,57,205026,False,162.919,0.616,0.755,8.13e-05,0.0454,0.858
+2024-11-15 01:11:35,Esa noche,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,58,206373,False,134.855,0.738,0.418,0.0,0.768,0.592
+2024-11-15 01:11:35,El baile y el salón,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,60,308040,False,110.98,0.723,0.626,0.00389,0.219,0.448
+2024-11-15 01:11:35,Chilanga banda,Café Tacvba,Avalancha de éxitos,1996,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,56,212066,False,183.917,0.66,0.607,0.0,0.14,0.425
+2024-11-15 01:11:35,No Hay Nadie Como Tú (feat. Café Tacuba),Calle 13,Los De Atrás Vienen Conmigo,2009-07-23,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",2935870,59,293320,True,199.952,0.573,0.856,0.0,0.0629,0.687
+2024-11-15 01:11:35,Le Summerlove,Miel De Montagne,Le Summerlove,2023-06-23,"french indie pop, french indietronica",79771,35,218306,False,109.986,0.833,0.608,0.0429,0.433,0.554
+2024-11-15 01:11:35,Tomber sur toi,Miel De Montagne,Tomber sur toi,2021-11-24,"french indie pop, french indietronica",79771,28,254973,False,108.026,0.73,0.588,0.065,0.00866,0.307
+2024-11-15 01:11:35,TBC (KARMA),KEVIN ROLDAN,TBC (KARMA),2024-10-03,"reggaeton, reggaeton colombiano, trap latino, urbano latino",5619714,64,144466,False,103.848,0.677,0.695,0.0,0.136,0.176
+2024-11-15 01:11:35,Trop Vite,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,185920,False,110.001,0.777,0.592,0.0307,0.138,0.435
+2024-11-15 01:11:35,Je T’appelle,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,233720,False,96.361,0.743,0.472,0.0271,0.128,0.503
+2024-11-15 01:11:35,Jusqu’à L’aube,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,37,223626,False,110.962,0.621,0.422,0.231,0.224,0.213
+2024-11-15 01:11:35,Relax le plexus,Miel De Montagne,Relax le plexus,2020-01-31,"french indie pop, french indietronica",79771,43,193775,False,121.282,0.857,0.593,0.0248,0.019,0.888
+2024-11-15 01:11:35,Slow pour mon chien,Miel De Montagne,Slow pour mon chien,2018-04-13,"french indie pop, french indietronica",79771,35,188000,False,80.025,0.695,0.274,0.253,0.719,0.243
+2024-11-15 01:11:35,Pour moi la vie va commencer - Bande Originale du film « presque légal »,Miel De Montagne,Pour moi la vie va commencer (Bande Originale du film « presque légal »),2024-07-26,"french indie pop, french indietronica",79771,25,100697,False,134.679,0.492,0.241,0.000465,0.931,0.173
+2024-11-15 01:11:35,Aprovéchate,Café Tacvba,El Objeto Antes Llamado Disco,2012-01-01,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,59,254173,False,113.993,0.741,0.686,0.0289,0.0742,0.466
+2024-11-15 01:11:35,Permis b bébé,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,189776,False,118.002,0.922,0.521,0.589,0.12,0.463
+2024-11-15 01:11:35,La ingrata,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,65,212000,False,142.942,0.748,0.835,1.97e-06,0.0854,0.896
+2024-11-15 01:11:35,Aunque no sea conmigo (feat. Café Tacvba),Celso Piña,Barrio Bravo,2001-03-19,"chicha, cumbia colombiana regia, latin alternative, mexican rock, rock en espanol",355856,61,213613,False,88.089,0.81,0.508,0.0,0.44,0.31
+2024-11-15 01:11:35,Laissez-Moi Rêver,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,28,175426,False,94.014,0.659,0.509,3.74e-05,0.628,0.45
+2024-11-15 01:11:35,Le Tuto,Miel De Montagne,Tout Autour De Nous,2022-05-06,"french indie pop, french indietronica",79771,39,210106,False,107.99,0.814,0.571,0.000836,0.0889,0.685
+2024-11-15 01:11:35,Las flores,Café Tacvba,Re,1994-07-20,"latin alternative, latin pop, latin rock, mexican rock, rock en espanol",3241810,62,135133,False,156.926,0.615,0.928,4.4e-06,0.186,0.962
+2024-11-15 01:11:35,L'amour,Miel De Montagne,Miel de Montagne,2019-04-05,"french indie pop, french indietronica",79771,47,206007,False,191.871,0.519,0.566,0.676,0.386,0.556
